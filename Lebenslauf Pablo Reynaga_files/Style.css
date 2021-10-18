@@ -1,0 +1,64 @@
+
+
+
+
+head,body,footer{ 
+    
+    text-align: justify;
+    line-height: 2;
+    
+    display: block;
+    
+    
+    
+    
+    
+
+}
+img{
+    width: 450px;
+    margin: right;
+    display: block;     
+
+}
+
+.titulo{
+    background:#FFA07A;
+    text-align: left;
+    color: white;
+    
+    
+    
+    
+}
+
+.list1, .list2, .list3 , .list4 , .list5, .list6, .list7{
+    list-style: circle;
+}
+
+.list7{
+    list-style: none;
+    
+}
+
+.t1, .t2, .t3{
+    background:#DCDCDC ;
+}
+
+.texto1, .text0 {
+    list-style: none;
+    line-height: 2; 
+    
+}
+
+.contenido{
+    margin: 42px;
+    display: block;
+    
+
+}
+.contenido2{
+    margin: 50px;
+
+}
+
